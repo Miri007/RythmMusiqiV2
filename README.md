@@ -10,7 +10,7 @@
 
 ### 💜 Herokuya Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sirincay2/RythmMusiqiV2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Miri007/RythmMusiqiV2)
 
 String üçün botdan istifadə edin [@genStr_robot](https://t.me/@genStr_robot)
 
