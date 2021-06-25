@@ -51,7 +51,7 @@ async def addchannel(client, message):
         print(e)
         await message.reply_text(
             f"<b>🔴 Flood Xətası 🔴 \nİstifadəçi {user.first_name} Grupunuza qatıla bilmədi bunu səbəbi Asistan bir çox qurupda olması və ya adminlərdən biri onu grupda banladı"
-                        "\n\nVə ya @GroupMuzikSup support grupundan dəstək istəyin</b>",
+                        "\n\nVə ya @DAB_Mirramin support grupundan dəstək istəyin</b>",
         )
         return
     await message.reply_text(
